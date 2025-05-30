@@ -1,8 +1,12 @@
 Herhangi bir konuda hata alırsanız veya bir yerde takılırsanız Discord "sawican" Arkadaş ekliyerek yardım alabilirsiniz
 
+
+
 Nodejs 22.15.1 bilgisayarınızda kurulu olmalı: https://nodejs.org/tr
 
 Dosyaları metin belgesinde düzenlemek yerine Notepadd kurabilirsiniz: https://notepad-plus-plus.org/downloads/
+
+
 
 
 Kurulum:
