@@ -10,6 +10,7 @@ Kurulum:
 Botunuzun olduğu klasörde shift + sağ tık basarak terminalde aç diyerek aşağıdaki komutları girin
 
 npm i discord.js
+
 npm i axios
 
 config.json daki gereken bilgileri doldurun 
