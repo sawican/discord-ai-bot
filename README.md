@@ -8,7 +8,7 @@ npm i axios discord.js
 ```
 ### Kurulum
 **1. *Projeyi indir ya da `git clone https://github.com/sawican/discord-ai-bot` komudu* ile projeyi klasöre kaydedin.**
-**2.** ***Klasör yoluna tıklayın ve `cmd` yazın***
-**3.** ***Açılan cmd sayfasında *`npm i axios discord.js` yazın ve indirmesini bekleyin**
-**4.** ***https://discord.com/developers/applications/ sayfasından botunuzda aşağıda bulunan ekran görüntüsündeki ibareleri açmayı unutmayın***
+<br>**2.** ***Klasör yoluna tıklayın ve `cmd` yazın***
+<br>**3.** ***Açılan cmd sayfasında *`npm i axios discord.js` yazın ve indirmesini bekleyin**
+<br>**4.** ***https://discord.com/developers/applications/ sayfasından botunuzda aşağıda bulunan ekran görüntüsündeki ibareleri açmayı unutmayın***<br>
 ![Screenshot_6248](https://github.com/user-attachments/assets/2c1ba9ae-017e-4f11-8d53-1771b78d4dfe)
