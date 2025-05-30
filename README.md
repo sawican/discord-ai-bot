@@ -1,5 +1,5 @@
 # Discord AI Bot
->**Herhangi bir hatada `discord.gg/varkit` üzerinden talep oluşturarak yardım alabilirsiniz.**
+>**Herhangi bir hatada `sawican` arkadaş ekliyerek veya `discord.gg/varkit` üzerinden talep oluşturarak yardım alabilirsiniz.**
 
 ### Gereksinimler
 [![Req](https://skillicons.dev/icons?i=nodejs,discord&theme=light)](https://skillicons.dev) Aşağıdaki komut ile bot gereksinimlerini kurabilirsiniz;
