@@ -19,4 +19,5 @@ npm i axios
 
 config.json daki gereken bilgileri doldurun 
 
-botunuzun Presence, Server Members, Message Content, intentleri açık olmalı açık olmalı bunun gibi: https://prnt.sc/eeND-UvWdL-F
+botunuzun Presence, Server Members, Message Content, intentleri açık olmalı açık olmalı
+![Screenshot_6248](https://github.com/user-attachments/assets/2c1ba9ae-017e-4f11-8d53-1771b78d4dfe)
